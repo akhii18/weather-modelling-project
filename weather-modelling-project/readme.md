@@ -24,3 +24,7 @@ Model:
 
 T(t) = at² + bt + c
 
+Akhilesh
+2023002132
+
+
